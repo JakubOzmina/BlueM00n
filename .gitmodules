@@ -1,0 +1,3 @@
+[submodule "BlueM00n/vendor/spdlog"]
+	path = BlueM00n/vendor/spdlog
+	url = https://github.com/gabime/spdlog

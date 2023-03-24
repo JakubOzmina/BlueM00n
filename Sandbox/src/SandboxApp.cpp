@@ -3,7 +3,7 @@
 class Sandbox : public BlueM00n::Application {
 public:
 	Sandbox() {
-
+		BM_CLIENT_INFO("Initialized App!");
 	}
 
 	~Sandbox() {
